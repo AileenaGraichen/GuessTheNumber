@@ -4,3 +4,17 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 1px 1px 1px gray;
 }
+
+li{
+    list-style: none;
+}
+
+button{
+    background-color: blueviolet;
+    color: azure;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
